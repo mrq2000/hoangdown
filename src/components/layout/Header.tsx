@@ -12,7 +12,7 @@ const Header = () => {
         boxShadow: 'none',
       }}
     >
-      <Toolbar sx={{ a: { textDecoration: 'none' }, height: { lg: 88 } }}>HEADER</Toolbar>
+      <Toolbar sx={{ a: { textDecoration: 'none' }, height: { lg: 88 } }}></Toolbar>
     </AppBar>
   );
 };
